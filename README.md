@@ -20,3 +20,4 @@ http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
     1. Execute collect_dataset.py
     2. Execute train_sentiment_model.py
     3. Execute live_demo.py
+    N.B:- This is CPU version.GPU is not required for now.
