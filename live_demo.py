@@ -1,10 +1,10 @@
 import pickle
 from preprocessing import text_preprocessing
-with open('/home/debaditya/Desktop/movie-sentiment-analysis/model_data/model.pkl', 'rb') as f:
+with open('/model_data/model.pkl', 'rb') as f:
     model=pickle.load(f)
-with open('/home/debaditya/Desktop/movie-sentiment-analysis/model_data/vect.pkl', 'rb') as f:
+with open('/model_data/vect.pkl', 'rb') as f:
     vect=pickle.load(f)
-with open('/home/debaditya/Desktop/movie-sentiment-analysis/model_data/le.pkl', 'rb') as f:
+with open('/model_data/le.pkl', 'rb') as f:
     le=pickle.load(f)
 
 def classify_sentiment(review):
