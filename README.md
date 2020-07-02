@@ -1,5 +1,5 @@
 # Introduction
-This repository is containing Two different models trained by two different datasets and different techniques
+This repository is containing Two different models trained by two different datasets and different NLP techniques
     - stanford_dataset_model is trained with stanford dataset
     - amazon_review_dataset_model is trained with amazon review dataset
 ## stanford_dataset_model
