@@ -5,7 +5,7 @@ This repository is containing Two different models trained by two different data
 ## stanford_dataset_model
 This directory is containing codes which will analyze sentiment of the viewers by their review about the movie.This model supports only English language.
 # Dataset
-I downloaded movie review dataset from http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+I downloaded movie review dataset from http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz. This is stanford review dataset.
 # Model Evaluation
     Training accuracy:- ~99%
     Testing accuracy:- ~88.636%
@@ -27,7 +27,7 @@ I downloaded movie review dataset from http://ai.stanford.edu/~amaas/data/sentim
 ## amazon_review_dataset_model
 This directory is containing codes which will analyze sentiment of any type of review including movie reviews. This model supports only English language.
 # Dataset
-I used amazon review dataset and I downloaded it from https://www.kaggle.com/bittlingmayer/amazonreviews
+I used amazon review dataset and I downloaded it from https://www.kaggle.com/bittlingmayer/amazonreviews.
 # Model Evaluation
     Training Accuracy:- 0.9752
     Validation Accuracy:- 0.9521
